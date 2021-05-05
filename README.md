@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kanyerezi30 (Stephen Kanyerezi)
 - 👀 I’m interested in Genomics and bioinformatics
 - 🌱 I’m currently undertaking a MSC in Bioinformatics
-- 💞️ I’m looking to collaborate on genomics related work (be it; DNA seq, RNA seq, scRNA seq, metagenomics, microbiome studies and GWAS)
+- 💞️ I’m looking to collaborate on genomics related work (be it; DNA seq, RNA seq, scRNA seq, metagenomics, microbiome studies, GWAS plus variant calling from chromatogram files produced by sanger sequencing)
 - 📫 How to reach me twitter: @kanyerezi30, Email: kanyerezi30@gmail.com, phone: +256773104269, linkein: 
 
 <!---
