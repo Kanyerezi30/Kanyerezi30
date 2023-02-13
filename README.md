@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kanyerezi30 (Stephen Kanyerezi)
 - 👀 I’m interested in Genomics and bioinformatics
-- 🌱 I’m currently undertaking a MSC in Bioinformatics
+- 🌱 Bioinformatician by training and passion
 - 💞️ Expertise in DNA seq, RNA seq, metagenomics, microbiome studies, GWAS plus variant calling from chromatogram files produced by sanger sequencing
 - 📫 How to reach me twitter: @kanyerezi30
 
